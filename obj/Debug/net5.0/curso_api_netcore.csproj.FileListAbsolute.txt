@@ -1,0 +1,4 @@
+D:\curso_api_netcore\bin\Debug\net5.0\curso_api_netcore.dll
+D:\curso_api_netcore\bin\Debug\net5.0\curso_api_netcore.pdb
+D:\curso_api_netcore\bin\Debug\net5.0\curso_api_netcore.Views.dll
+D:\curso_api_netcore\bin\Debug\net5.0\curso_api_netcore.Views.pdb
